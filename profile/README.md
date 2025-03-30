@@ -19,21 +19,23 @@
 
 ## About
 
-InternX is a platform for students to build their portfolios through internship work. Inspired by LinkedIn, current existing solutions lack the effieicent means to find recruiters and cold email them on the same platform. Our solution is to use Llama for cold email generation for open roles as well as Hunter.io to identify specific recruiters at big companies.
+InternX is a platform for students to connect with recruiters and alumni at their dream internships. Currently, there's no software to efficiently find recruiters, alumni, and generate emails--all in one place. Our solution is to use Llama for cold email generation, as well as the Hunter.io API to identify recruiters and alumni.
+
 
 ## Our Process 
 
-We were motivated by the great difficulty in finding internship opportunities for the upcoming summers. So, we determined a need for a streamlined system of finding, obtaining roles, and keeping track of our progress. As a result, InternX came to be. We spent the first night planning our idea, including developing our unique “connection” system between companies and students. We also sketched our idea on a whiteboard while researching similar designs. We then whiteboarded the design of our llama stack calls and built from there.
+As Computer Science students, our feeds have been bombarded with doomsday-level news about the state of our major. From wiltering job prospects to AI rejection emails, **there had to be a better way to go about the internship search.** This brought us to InternX. We spent the first night planning our idea, including developing our unique “connection” system between companies and students. We also sketched our ideas on a whiteboard while researching similar designs. We then whiteboarded the design of our llama stack calls and built from there.
 
-Our team was experienced with ReactJS and Firebase, so we were able to effectively develop during the period. However, our team learned a lot about teamwork and communication in SWE, especially using GitHub as a centralized platform for code management. Furthermore, we learned a lot about the ideation process and how to plan for software with many moving parts (components, personal + company data, cloud hosting, etc). We dealt with an extensive data generation process to mimic full usage on the app, and to demonstrate its full potential with companies and students using the platform. Lastly, we have never used the llama models before so reading through the documentation and implementing features into our application presented a challenge.
+Our team was experienced with ReactJS and Firebase, so we were able to effectively develop during the period. However, our team learned a lot about teamwork and communication in SWE, especially using GitHub as a centralized platform for code management. Furthermore, we learned a lot about the ideation process and how to plan for software with many moving parts (components, personal + company data, cloud hosting, etc). We created a custom LinkedIn web scraper to generate an extensive amount of user data, mimicing full usage on the app. Lastly, we have never used the llama models before so reading through the documentation and implementing features into our application presented a challenge.
+
 
 ## Current Features
 
 - Intern (fake data) listings dashboard for students to explore and apply to
 - Personal profile for each student
-- Student and company side logins (currently not functioning) to view project listings and application statuses
+- Student login to view project listings and application statuses
 - Accruate recuiter listed for 20+ companies with confidence intervals for their emails
-- Human-like cold + referral emails that generate in under 5 seconds and can be exported instantly to an email client
+- Human-like cold/referral emails that generate in under 5 seconds and can be exported instantly to an email client
 - LinkedIn scraper of profiles (not fully implemented due to time)
 
 
@@ -43,10 +45,6 @@ Our team was experienced with ReactJS and Firebase, so we were able to effective
 - Partner with real-world companies or scrape data to create real intern postings
 - AI-based (collaborative recommender) project recommendations based on your major, interests, and feedback from previous projects 
 - GitHub sync for keeping up-to-date with personal projects to showcase under personal information to recruiters
-
-## Contributing
-
-We'd love to have your help in making InternX better. The project still has work to do before the full production launch, but if there's an issue you'd like to see addressed sooner rather than later, feel free to report it in the issues!
 
 <hr>
 
