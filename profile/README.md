@@ -10,7 +10,9 @@
   <h1 align="center">InternX</h1>
 
   <p align="center">
-    Streamlining the university recruiting process. Find recruiters, generate cold emails, and land that dream role.
+    Streamlining the university recruiting process.
+    <br>
+    <b>Find recruiters, generate cold emails, and land that dream role.</b>
     <br> 
     Developed by WashU students for WashU students.
     <br>
