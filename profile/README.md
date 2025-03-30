@@ -10,7 +10,7 @@
   <h1 align="center">InternX</h1>
 
   <p align="center">
-    Building relationships between students and companies through internships. Kickstart your career through projects.
+    Streamlining the university recruiting process. Find recruiters, generate cold emails, and land that dream role.
     <br> 
     Developed by WashU students for WashU students.
     <br>
