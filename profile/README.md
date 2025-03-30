@@ -21,7 +21,7 @@
 
 ## About
 
-InternX is a platform for students to connect with recruiters and alumni at their dream internships. Currently, there's no software to efficiently find recruiters, alumni, and generate emails--all in one place. Our solution is to use Llama for cold email generation, as well as the Hunter.io API to identify recruiters and alumni.
+InternX is a platform for students to connect with recruiters and alumni at their dream internships. Currently, there's no software to efficiently find recruiters/alumni, and generate emails--all in one place. Our solution is to use Llama for cold email generation, as well as the Hunter.io API to identify recruiters and alumni.
 
 
 ## Our Process 
