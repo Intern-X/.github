@@ -52,7 +52,7 @@ Our team was experienced with ReactJS and Firebase, so we were able to effective
 
 ## Technical
 
-InternX was developed with the FERN + Llama stack during the 2024 HackBeanPot hackathon. The front end is hosted on Firebase, and our back end is hosted on Heroku. Our authentication servies are provided by FirebaseAuth.
+InternX was developed with the FERN + Llama stack during the 2025 WashU Meta x 8VC hackathon. The front end is hosted on Firebase, and our back end is hosted on Heroku. Our authentication servies are provided by FirebaseAuth.
 
 ### Technologies Used
 <div align="center">
